@@ -1,0 +1,5 @@
+export DIALOG_LIB_PATH := ../lib
+export DIALOG_INCLUDE_PATH := ../include/
+export DIALOG_MAKE_PATH := $(PWD)
+
+

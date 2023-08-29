@@ -1,0 +1,15 @@
+This dialog is created by dialog::StandardWindow.
+
+If you explore this library you will find all the 
+old libsyllable dialogs are a part of this 
+library (updated of course).
+
+You will also notice on the right hand side is
+another view.  In this view, you will be able
+to play around with the new Action/ActionList
+functionality.  Feel free to either click from
+the dropdown or in the menu system to explore
+all of the wonderful features of
+dialog::Action/dialog::ActionList.
+
+

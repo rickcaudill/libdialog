@@ -1,0 +1,4 @@
+export DIALOG_LIB_PATH := $(PWD)/lib
+export DIALOG_INCLUDE_PATH := $(PWD)/include/
+export DIALOG_MAKE_PATH := $(PWD)
+export DIALOG_TEST_PATH := $(PWD)/test
